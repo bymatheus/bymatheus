@@ -85,7 +85,7 @@ class SearchEngine
         array_push(
             $this->newContent,
             "\n```text",
-            "\n💡 &nbsp; Editor",
+            "\n💡  Editor",
             "\n"
         );
 
@@ -109,7 +109,7 @@ class SearchEngine
         array_push(
             $this->newContent,
             "\n```text",
-            "\n💬 &nbsp; Linguagem",
+            "\n💬  Linguagem",
             "\n"
         );
 
@@ -132,7 +132,7 @@ class SearchEngine
         array_push(
             $this->newContent,
             "\n```text",
-            "\n💻 &nbsp; Sistema Operacional",
+            "\n💻  Sistema Operacional",
             "\n"
         );
 
@@ -155,7 +155,7 @@ class SearchEngine
         array_push(
             $this->newContent,
             "\n```text",
-            "\n📦 &nbsp; Categoria",
+            "\n📦  Categoria",
             "\n"
         );
 
