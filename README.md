@@ -1,4 +1,4 @@
-#👋 Oi! Meu nome é Matheus
+# 👋 Oi! Meu nome é Matheus
 
 - 🔭 &nbsp; Atualmente estou trabalhando no [Consultamais](https://consultamais.com.br/).
 - 💻 &nbsp; PHP, Laravel, Symfony, JS, Vue.js, Boostrap.
@@ -9,13 +9,13 @@
 
 📊  **Analise de desenvolvimento semanal**
 ```text
-💡 &nbsp; Editor
+💡  Editor
 
 PhpStorm                 19 hrs 47 mins      █████████████████████████     98.71%
 VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░      1.29%
 ```
 ```text
-💬 &nbsp; Linguagem
+💬  Linguagem
 
 PHP                      5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░     28.87%
 Blade Template           4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░     20.63%
@@ -31,12 +31,12 @@ Text                     5 mins              ░░░░░░░░░░░�
 XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.37%
 ```
 ```text
-💻 &nbsp; Sistema Operacional
+💻  Sistema Operacional
 
 Mac                      20 hrs 2 mins       █████████████████████████       100%
 ```
 ```text
-📦 &nbsp; Categoria
+📦  Categoria
 
 Coding                   20 hrs 2 mins       █████████████████████████       100%
 ```
