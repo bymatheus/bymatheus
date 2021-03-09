@@ -25,7 +25,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=PostgreSQL&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?&logo=SQLite&logoColor=FFFFFF)
 
-#### 💾 &nbsp; Server | Environment
+#### ☁️ &nbsp; Server | Environment
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=FFFFFF)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?&logo=microsoft%20azure&logoColor=FFFFFF)
 ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?&logo=cpanel&logoColor=FFFFFF)
