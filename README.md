@@ -1,73 +1,80 @@
-# 👋 Oi! Meu nome é Matheus
+# 👋 Olá, eu sou o Matheus Camargo
 
-- 🔭 &nbsp; Atualmente estou trabalhando no [Consultamais](https://consultamais.com.br/).
-- 💻 &nbsp; PHP, Laravel, Symfony, JS, Vue.js, Boostrap.
-- 🌱 &nbsp; Estou estudando **OOP, SOLID, PostgreSQL, PHP e JavaScript**.
-- 📫 &nbsp; Você pode entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/matheuscamargoxavier/) ou pelo meu [site](https://matheuscamargo.co).
+🎯 **Arquiteto de Software** com +9 anos de experiência em desenvolvimento de sistemas escaláveis, com foco em back-end PHP/Laravel e estratégias DevOps. Atuo como líder técnico em dois projetos do setor de tecnologia para crédito e inadimplência: **ConsultaMais** e **NegativeAqui**.
 
-#### 💡 &nbsp; Stacks:
-![PHP](https://img.shields.io/badge/-PHP-777BB4?&logo=php&logoColor=FFFFFF)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?&logo=laravel&logoColor=FFFFFF)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?&logo=symfony&logoColor=FFFFFF)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?&logo=html5&logoColor=FFFFFF)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?&logo=css3&logoColor=FFFFFF)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?&logo=sass&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=FFFFFF)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?&logo=jquery&logoColor=FFFFFF)
-![Gulp](https://img.shields.io/badge/-Gulp-CF4647?&logo=gulp&logoColor=FFFFFF)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?&logo=bootstrap&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)
-![Composer](https://img.shields.io/badge/-Composer-885630?&logo=composer&logoColor=FFFFFF)
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?&logo=yarn&logoColor=FFFFFF)
-![NPM](https://img.shields.io/badge/-npm-CB3837?&logo=npm&logoColor=FFFFFF)
+---
 
-#### 💾 &nbsp; Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=PostgreSQL&logoColor=FFFFFF)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?&logo=SQLite&logoColor=FFFFFF)
+## 🧠 Sobre mim
 
-#### ☁️ &nbsp; Server | Environment
-![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=FFFFFF)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?&logo=microsoft%20azure&logoColor=FFFFFF)
-![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?&logo=cpanel&logoColor=FFFFFF)
+- 🚀 Clean Architecture, DDD e SOLID
+- 🔁 Atuação com pipelines CI/CD usando **Docker**, **GitHub Actions**, **Redis**, **SQS** e documentação via **Swagger**
+- ☁️ Infraestrutura moderna: ambientes em **Kubernetes (produção)**, com alta disponibilidade e escalabilidade
+- 🛠️ Experiência em sistemas críticos de crédito, negativação e APIs integradas com bureaus (SPC, Serasa, etc.)
+- 💡 Background em design digital (UX/UI), trazendo visão completa entre código, arquitetura e experiência
+- 📚 Em constante evolução: atualmente aprofundando em Design Patterns e clean arch, cloud e testes.
 
-#### ⚙️ &nbsp; Tools
-![PHPStorm](https://img.shields.io/badge/-PHPStorm-000000?&logo=PHPStorm&logoColor=FFFFFF)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) 
-![JetBrains](https://img.shields.io/badge/-JetBrains-000000?&logo=jetbrains&logoColor=FFFFFF) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github&logoColor=FFFFFF) 
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181717?&logo=GitHub%20Actions&logoColor=FFFFFF) 
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?&logo=bitbucket&logoColor=FFFFFF)
-![GitKraken](https://img.shields.io/badge/-GitKraken-179287?&logo=GitKraken&logoColor=FFFFFF)
-![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?&logo=Insomnia&logoColor=FFFFFF)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?&logo=adobe%20xd&logoColor=FFFFFF) 
-_______
+---
 
-📊  **Analise de desenvolvimento semanal**
+## 🚧 Projetos de Destaque
+
+### 🔹 ConsultaMais
+Plataforma de consulta de dados creditícios com sistema pré-pago de créditos, API de revenda e monitoramento de CPF/CNPJ.
+
+- Laravel + Docker + CI/CD (GitHub Actions)
+- Produção em **Kubernetes**, com segregação de ambientes (sandbox/prod)
+- Arquitetura baseada em Clean Architecture + DDD
+- API RESTful com autenticação JWT e documentação via Swagger
+- Redis + SQS para tarefas assíncronas
+- Infraestrutura do CMS implementada do zero
+
+### 🔹 NegativeAqui
+Sistema inteligente de **negativação automatizada de inadimplentes**, integrado a serviços externos (bureaus de crédito).
+
+- Produção em **Kubernetes**, com segregação de ambientes (sandbox/prod)
+- Redis + SQS + Swagger + GitHub Actions
+- API RESTful com autenticação JWT e documentação via Swagger
+- Requisições assíncronas
+- Painel administrativo com RBAC
+- Integração com múltiplos ambientes e monitoramento de status
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+- **Linguagens:** PHP, JavaScript
+- **Frameworks:** Laravel, Symfony, React
+- **Infraestrutura:** Docker, GitHub Actions, Kubernetes, NGINX, MySQL, Redis, SQS e terraform
+- **Boas práticas:** TDD, SOLID, DDD, Clean Architecture, DRY
+- **Documentação:** Swagger
+- **Outros:** Bootstrap, JWT, Gulp
+
+---
+
 ```text
 💡  Editor
 
-Safari                   12 hrs 25 mins      ██████████████░░░░░░░░░░░      55.9%
-PhpStorm                 2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░        12%
-ChatGPT                  2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░     10.49%
-Warp                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░      8.17%
-Notion                   1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░      7.66%
-Postman                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░      3.37%
-Slack                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░      1.03%
-Spotify                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░      0.94%
-DataGrip                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.37%
+Safari                   13 hrs 24 mins      ███████████████░░░░░░░░░░     59.68%
+PhpStorm                 3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░      15.2%
+ChatGPT                  2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░     10.51%
+Warp                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░      7.91%
+Postman                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░      3.39%
+Spotify                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░      1.32%
+Notion                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.71%
+Slack                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.69%
+DataGrip                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.51%
 VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░      0.08%
 ```
 ```text
 💬  Linguagem
 
-Other                    9 hrs 3 mins        ██████████░░░░░░░░░░░░░░░     40.77%
-HTTP Request             4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░     19.46%
-Blade Template           3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░     15.74%
-PHP                      3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░     14.68%
-YAML                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░      4.88%
-XML                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░      3.01%
-.env file                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.68%
-SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.37%
+Other                    7 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░     33.48%
+HTTP Request             5 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░     24.72%
+PHP                      4 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░     22.08%
+Blade Template           2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░     10.32%
+YAML                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░      4.82%
+XML                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░      2.98%
+.env file                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.67%
+SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.51%
 Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.31%
 JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░       0.1%
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░         0%
@@ -77,14 +84,21 @@ SmartyConfig             0 secs              ░░░░░░░░░░░�
 ```text
 💻  Sistema Operacional
 
-Mac                      22 hrs 13 mins      █████████████████████████       100%
+Mac                      22 hrs 27 mins      █████████████████████████       100%
 ```
 ```text
 📦  Categoria
 
-Browsing                 12 hrs 25 mins      ██████████████░░░░░░░░░░░      55.9%
-Coding                   7 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░     32.05%
-Writing Docs             1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░      7.66%
-Debugging                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░      3.37%
-Communicating            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░      1.03%
+Browsing                 13 hrs 24 mins      ███████████████░░░░░░░░░░     59.68%
+Coding                   7 hrs 58 mins       █████████░░░░░░░░░░░░░░░░     35.53%
+Debugging                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░      3.39%
+Writing Docs             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.71%
+Communicating            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░      0.69%
 ```
+---
+
+## 📫 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheuscamargoxavier)
+- 🌐 [Portfólio](https://matheuscamargo.co)
+- 🧑‍💻 [Projetos Open Source](https://github.com/bymatheus)
