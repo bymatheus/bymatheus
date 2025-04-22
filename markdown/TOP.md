@@ -2,8 +2,6 @@
 
 🎯 **Arquiteto de Software** com +9 anos de experiência em desenvolvimento de sistemas escaláveis, com foco em back-end PHP/Laravel e estratégias DevOps. Atuo como líder técnico em dois projetos do setor de tecnologia para crédito e inadimplência: **ConsultaMais** e **NegativeAqui**.
 
----
-
 ## 🧠 Sobre mim
 
 - 🚀 Clean Architecture, DDD e SOLID
@@ -12,8 +10,6 @@
 - 🛠️ Experiência em sistemas críticos de crédito, negativação e APIs integradas com bureaus (SPC, Serasa, etc.)
 - 💡 Background em design digital (UX/UI), trazendo visão completa entre código, arquitetura e experiência
 - 📚 Em constante evolução: atualmente aprofundando em Design Patterns e clean arch, cloud e testes.
-
----
 
 ## 🚧 Projetos de Destaque
 
@@ -37,8 +33,6 @@ Sistema inteligente de **negativação automatizada de inadimplentes**, integrad
 - Painel administrativo com RBAC
 - Integração com múltiplos ambientes e monitoramento de status
 
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 - **Linguagens:** PHP, JavaScript
@@ -48,4 +42,4 @@ Sistema inteligente de **negativação automatizada de inadimplentes**, integrad
 - **Documentação:** Swagger
 - **Outros:** Bootstrap, JWT, Gulp
 
----
+## 📈 Métricas de Codificação
